@@ -21,3 +21,7 @@ problème en cours de vérification avec les propriétaires du site.)
 
 
 Les autres fonctionnalité seront ajouté en fonction du temps libre que je peux accorder au projet.
+
+!! IMPORTANT !!
+Le squelette de ce projet est un clone du github suivant : https://github.com/Vincebrees/Android3AEsiea
+Le fichier NTLMPassword a été récupéré depuis le net entièrement.
